@@ -14,7 +14,7 @@ Bishkek, Kyrgyzstan · AUCA Software Engineering · AI/backend engineer in progr
 
 ## Focus
 
-I am a second-year Software Engineering student at AUCA, building toward AI/ML research and production-grade agentic systems.
+I am a third-year Software Engineering student at AUCA, building toward AI/ML research and production-grade agentic systems.
 
 My current work sits around LLM workflows, backend architecture, retrieval/embedding systems, evaluation loops, and ML projects that can become real products.
 
@@ -93,4 +93,3 @@ Contributed to FastAPI and RAG-related backend work, evaluated embeddings on dom
 ## Languages
 
 Kyrgyz - fluent · Russian - fluent · English - upper-intermediate · Mandarin Chinese - intermediate
-
