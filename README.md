@@ -7,17 +7,15 @@
 <pre align="center">
 📍 Bishkek
 🗣️ Кыргызча · Русский · English · 中文
-💻 Python · TypeScript · PyTorch · FastAPI
+💻 Python · Langgraph · FastAPI
 </pre>
 
 ---
 
 I build agentic systems.  
-They do things. They break. I fix them.
+I do things. They work(sometimes).
 
-LangGraph · DSPy · FastAPI · PyTorch · whatever works.
-
-Code stays up. Tests pass. No TODOs left behind.
+LangGraph · DSPy · FastAPI · PyTorch · whatever
 
 ---
 
